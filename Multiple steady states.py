@@ -1,7 +1,3 @@
-# File 40-1.py
-# Example 40. Multiple steady states
-# Copyright (C) 2016, Szczepan Bednarz
-# Released under the GNU General Public License
 
 import matplotlib.pyplot as plt
 import numpy as np
